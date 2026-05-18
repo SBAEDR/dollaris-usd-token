@@ -1,10 +1,1 @@
-{
-  "name": "Dollaris",
-  "symbol": "USD",
-  "description": "Dollaris Protocol Token",
-  "image": "https://raw.githubusercontent.com/SBAEDR/dollaris-usd-token/main/logo.svg.svg",
-  "website": "https://www.dollaris.pro",
-  "twitter": "https://x.com/dollaris357190",
-  "telegram": "https://t.me/dollaris_usd",
-  "decimals": 18
-}
+
