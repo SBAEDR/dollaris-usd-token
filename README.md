@@ -29,7 +29,7 @@ Official Dollaris USD Protocol Token on Binance Smart Chain (BEP20).
 
 ## Official Logo
 
-![Dollaris Logo](https://https://raw.githubusercontent.com/SBAEDR/dollaris-usd-token/main/logo%2025%C3%97256.png)
+![Dollaris Logo](https://https://raw.githubusercontent.com/SBAEDR/dollaris-usd-token/main/logo.png)
 ## Description
 
 Dollaris USD (USD) is a decentralized digital asset designed for secure, transparent, and efficient digital transactions across DeFi ecosystems.
