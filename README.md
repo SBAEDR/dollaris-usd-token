@@ -7,8 +7,8 @@ Official Dollaris USD Protocol Token on Binance Smart Chain (BEP20).
 
 - Website: https://www.dollaris.pro
 - GeckoTerminal: https://www.geckoterminal.com/bsc/pools/0x5995623961c7cc3bd46d678ed108a6ef6b1f6a21
-- Twitter/X: https://x.com/dollaris357190
-- Telegram: https://t.me/dollaris_usd
+- Twitter/X: https://x.com/DollarisUSD
+- Telegram: https://t.me/USD_DOLLARIS
 
 ## Token Information
 
